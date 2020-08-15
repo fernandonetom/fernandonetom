@@ -44,6 +44,6 @@ I'm a curious Developer from Brazil 💚, **22 years old** 👶🏻 and **6 year
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandonetom&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonetom&layout=compact&theme=dark&hide=html" />
    
-![Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandonetom&show_icons=true)
