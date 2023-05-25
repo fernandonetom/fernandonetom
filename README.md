@@ -21,7 +21,7 @@
 
 Hi, I'm Fernando Neto, but you can call me **Neto**. 
 
-I'm a curious Developer from Brazil 💚, **22 years old** 👶🏻 and **6 years of coding** 🧐. 
+I'm a curious Developer from Brazil 💚, **25 years old** 👶🏻 and **7+ years of coding** 🧐. 
 
 **A learning lover** 📕, **an aspiring musician** 🎸.
 
